@@ -1,6 +1,6 @@
 # The AI Organization
-AIが広告を「割り込み」から「優しい提案」に変える。 <br>
-検索の終焉、エージェンティック・コマース、信頼のパラドックス——広告が初めて「歓迎される存在」になる未来を描くOSS書籍。
+AI時代の組織論。<br>
+AI導入が失敗する本質は技術ではなく組織にある。リーダーシップ・文化・評価制度の構造分析。
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese-blue)](docs/)
