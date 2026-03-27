@@ -46,14 +46,14 @@ DeNA・Klarna・Shopify・NVIDIA・JPモルガン・Salesforce・サイバーエ
 | ----------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------- |
 | **The AI Strategist**               | AIストラテジストという職業を定義し、BTC交差点で戦うための実践的フレームワーク    | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist)              |
 | **Depth & Velocity**                | 生成AI時代の新規事業開発方法論                             | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity)             |
-| **The Orchestrator**                | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義            | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
-| **The Anatomy of Anthropic**        | Anthropicの戦略・製品・研究・安全性を包括的に解剖                | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)       |
-| **Advertising, Redesigned**         | AI時代の広告の未来を、7社の戦略と構造分析から描くOSS書籍              | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned)         |
-| **The Palantir Impact**             | Palantir Foundryのオントロジー戦略を解剖。産業構造の解剖シリーズ第1弾  | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)     |
 | **The Silence of Intelligence**     | Anthropic CEO ダリオ・アモディの思想を体系化。産業構造の解剖シリーズ第2弾 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence)    |
+| **The Anatomy of Anthropic**        | Anthropicの戦略・製品・研究・安全性を包括的に解剖                | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic)       |
+| **The Palantir Impact**             | Palantir Foundryのオントロジー戦略を解剖。産業構造の解剖シリーズ第1弾  | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)     |
 | **What They Won't Teach You**       | AIに有利な世代が教えない、AIの使い方と"思考のOS"                 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you)       |
 | **The Edge of Intelligence**        | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり           | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence)           |
 | **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む                    | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era)  |
+| **The Orchestrator**                | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義            | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
+| **Advertising, Redesigned**         | AI時代の広告の未来を、7社の戦略と構造分析から描くOSS書籍              | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned)         |
 
 ---
 
