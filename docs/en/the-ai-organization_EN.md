@@ -117,16 +117,16 @@ This book is **not a critique of any specific organization. It is a structural a
 ### References
 
 1. BCG "Maximizing Return on AI Investments" — The 10-20-70 rule for value creation in AI
-   https://www.bcg.com/publications/2024/maximizing-return-on-ai-investments
+   https://www.bcg.com/publications/2025/closing-the-ai-impact-gap
 
 2. McKinsey "The State of AI in Early 2024" — Fewer than 20% of companies track generative AI KPIs
    https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
 
 3. IBM "Global AI Adoption Index 2024" — Only 29% of organizations can measure AI ROI
-   https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ai-adoption
+   https://newsroom.ibm.com/2024-01-10-Data-Suggests-Growth-in-Enterprise-Adoption-of-AI-is-Due-to-Widespread-Deployment-by-Early-Adopters
 
 4. Salesforce "Engineering 360" — Evaluation reform after AI coding tool deployment
-   https://www.salesforce.com/news/stories/ai-engineering-productivity/
+   https://engineering.salesforce.com/turbocharging-developer-productivity-unveiling-salesforces-strategy-for-engineering-excellence/
 
 <br>
 
@@ -296,13 +296,13 @@ This book's central question is: **which one has your organization chosen?**
 ### References
 
 1. DeNA Tomoko Namba, "All-In on AI Declaration" — 2024 Earnings Presentation
-   https://dena.com/jp/ir/
+   https://fullswing.dena.com/archives/100153/
 
 2. DeNA DARS (DeNA AI Readiness Score) — Company-wide AI utilization evaluation
-   https://dena.com/jp/article/004252/
+   https://dena.com/jp/news/5279/
 
 3. Klarna CEO Sebastian Siemiatkowski, "We went too far" — Bloomberg interview, 2025
-   https://www.bloomberg.com/news/articles/2025-02-20/klarna-ceo-says-utilitarian-utilitarian-utilitarian-ai-approach-went-too-far
+   https://www.bloomberg.com/news/articles/2025-05-08/klarna-turns-from-ai-to-real-person-customer-service
 
 4. Klarna AI Assistant — 700 human roles replaced
    https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/
@@ -537,7 +537,7 @@ The next chapter cuts into the core of this neglected 70% — the structural col
    https://blog.google/technology/ai/april-ai-update/
 
 6. Amazon 30,000+ layoffs — 2024 organizational restructuring
-   https://www.aboutamazon.com/news/company-news/amazon-layoffs-2024
+   https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction
 
 <br>
 
@@ -810,16 +810,16 @@ The next chapter enters the environment where this rewriting is hardest of all �
 ### References
 
 1. Salesforce "Engineering 360" — Evaluation reform after AI coding tool deployment
-   https://www.salesforce.com/news/stories/ai-engineering-productivity/
+   https://engineering.salesforce.com/turbocharging-developer-productivity-unveiling-salesforces-strategy-for-engineering-excellence/
 
 2. DeNA DARS — Five-level quantified AI utilization evaluation
-   https://dena.com/jp/article/004252/
+   https://dena.com/jp/news/5279/
 
 3. CyberAgent — Evaluation reform for creative roles after AI adoption
    https://www.cyberagent.co.jp/techinfo/ai/
 
 4. PwC "Global AI Jobs Barometer 2024" — 25% wage premium for AI skill holders
-   https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer.html
+   https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html
 
 5. Section "State of AI at Work 2024" — 85% of knowledge workers lack established AI use cases; Advanced tier just 3%
    https://www.section.com/state-of-ai-at-work
@@ -828,7 +828,7 @@ The next chapter enters the environment where this rewriting is hardest of all �
    https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
 
 7. IBM "Global AI Adoption Index 2024" — Only 29% of organizations can measure AI ROI
-   https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ai-adoption
+   https://newsroom.ibm.com/2024-01-10-Data-Suggests-Growth-in-Enterprise-Adoption-of-AI-is-Due-to-Widespread-Deployment-by-Early-Adopters
 
 <br>
 
@@ -1033,19 +1033,19 @@ The next chapter confronts the most concrete implementation question: the illusi
 ### References
 
 1. DeNA Tomoko Namba, "Diligence Paradox" — Behavioral change after the AI all-in declaration
-   https://dena.com/jp/ir/
+   https://fullswing.dena.com/archives/100153/
 
 2. LINE Yahoo AI mandate — Mandatory AI usage for all employees
-   https://www.lycorp.co.jp/ja/news/
+   https://www.lycorp.co.jp/ja/news/release/018121/
 
 3. PwC Japan "Five-Country AI Comparison Study 2024" — Japan: average adoption, lowest outcomes
-   https://www.pwc.com/jp/ja/knowledge/thoughtleadership/ai-prediction.html
+   https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2025.html
 
 4. Skill grade systems and the structural contradiction with AI talent — Challenges of Japan's HR framework
    https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/
 
 5. PwC "Global AI Jobs Barometer 2024" — 25% wage premium for AI skill holders
-   https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer.html
+   https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html
 
 <br>
 
@@ -1628,7 +1628,7 @@ To close this chapter, here is an implementation checklist for executives consid
    https://www.hbs.edu/faculty/Pages/item.aspx?num=64700
 
 2. BCG "North Star → Lighthouse → Scaling" — AI organizational transformation roadmap
-   https://www.bcg.com/publications/2024/maximizing-return-on-ai-investments
+   https://www.bcg.com/publications/2025/closing-the-ai-impact-gap
 
 3. California Management Review "Six Principles for Responsible AI" — Design principles for AI-first organizations
    https://cmr.berkeley.edu/
@@ -1699,7 +1699,7 @@ And the person who grants permission for that design is the executive.
 ### References
 
 1. DeNA Tomoko Namba — "Human dignity in an era when AI assigns work to humans"
-   https://dena.com/jp/ir/
+   https://fullswing.dena.com/archives/100153/
 
 2. BCG "AI at Work: Friend and Foe" — "Humans are the source of differentiation"
    https://www.bcg.com/publications/2024/ai-at-work-friend-and-foe
