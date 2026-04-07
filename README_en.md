@@ -54,6 +54,8 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline                                   | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era)  |
 | **The Orchestrator**                | The first-ever definition of the rarest role in the AI era                                                      | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned**         | An open-source book exploring the future of advertising in the AI era through strategic analysis of 7 companies | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned)         |
+| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era                            | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The Structural Shift from SaaS**  | SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software                                           | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 
 ---
 
@@ -77,7 +79,8 @@ This book is part of an interconnected ecosystem of open-source projects.
 
 ## 🤝 Contributing
 
-Issues and Pull Requests are welcome. Contributions on new case studies and data on AI-era organizational design, comparative research with HR systems in other countries, corrections, and translations are all appreciated.
+Issues and Pull Requests are welcome.<br>
+Contributions on new case studies and data on AI-era organizational design, comparative research with HR systems in other countries, corrections, and translations are all appreciated.
 
 ---
 
