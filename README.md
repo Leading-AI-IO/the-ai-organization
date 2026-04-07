@@ -54,6 +54,7 @@ DeNA・Klarna・Shopify・NVIDIA・JPモルガン・Salesforce・サイバーエ
 | **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む                    | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era)  |
 | **The Orchestrator**                | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義            | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned**         | AI時代の広告の未来を、7社の戦略と構造分析から描くOSS書籍              | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned)         |
+| **The Structural Shift from SaaS**  | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。      | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 
 ---
 
@@ -77,7 +78,8 @@ DeNA・Klarna・Shopify・NVIDIA・JPモルガン・Salesforce・サイバーエ
 
 ## 🤝 Contributing
 
-Issues and Pull Requests are welcome. AI時代の組織設計に関する新事例・データの追加、各国の人事制度との比較研究、誤字脱字の修正など、皆様からのContributeを歓迎します。
+Issues and Pull Requests are welcome.<br>
+AI時代の組織設計に関する新事例・データの追加、各国の人事制度との比較研究、誤字脱字の修正など、皆様からのContributeを歓迎します。
 
 ---
 
