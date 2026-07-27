@@ -13,6 +13,24 @@
 
 ---
 
+> **定義｜What is The AI Organization**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、BCGの「AIの価値の70%は
+> 人と組織のリデザインから生まれる」という調査結果を起点に、AI導入が失敗する
+> のは技術不足ではなく、評価制度の破綻・フィードバックの不在・AI活用人材を
+> 認識できない組織構造にあることを解剖する構造分析である。終章の言葉：
+> 「組織のOSを書き換える決断を下せるのは、人間だけだ。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi, building on
+> BCG's finding that 70% of AI's value comes from people-and-organization
+> redesign, arguing that AI adoption fails not from insufficient
+> technology but from broken evaluation systems and organizational
+> structures that cannot recognize the value AI-literate talent creates.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 BCGは言った。AIがもたらす価値の **70%は、人と組織のリデザインから生まれる** と。
