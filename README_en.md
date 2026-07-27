@@ -13,6 +13,20 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, building on BCG's finding that 70% of AI's value comes from
+> people-and-organization redesign — not technology — arguing that AI
+> adoption fails from broken evaluation systems, missing feedback loops,
+> and organizational structures that cannot recognize the value AI-literate
+> talent creates. As stated in the closing line: "Only humans can decide
+> to rewrite the organization's OS."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 BCG said it plainly: **70% of the value AI creates comes from redesigning people and organizations.**
