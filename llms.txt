@@ -1,0 +1,68 @@
+# The AI Organization
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> arguing — building on BCG's finding that 70% of AI's value comes from
+> people-and-organization redesign, not technology — that AI adoption
+> fails not from insufficient technology but from broken evaluation
+> systems, missing feedback loops, and organizational structures that
+> cannot recognize the value AI-literate talent creates. As stated in the
+> book's closing line: "組織のOSを書き換える決断を下せるのは、人間だけだ。"
+> ("Only humans can decide to rewrite the organization's OS.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-ai-organization_JP.md): 序章・全8章・終章収録
+- [Full text (English)](docs/en/the-ai-organization_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book opens with BCG's "10-20-70 rule": technology contributes 10% of
+  AI's value, data/infrastructure 20%, and people/organization redesign
+  70% — while citing McKinsey (under 20% of companies track generative AI
+  KPIs) and IBM (only 29% measure AI ROI) as evidence most companies invest
+  in the wrong 30%
+- Ch.1: The book contrasts DeNA (chairman Tomoko Namba reinvested
+  AI-freed time into new business, calling the alternative the
+  "seriousness paradox" — freed time refilled with more existing work) with
+  Klarna (CEO Sebastian Siemiatkowski cut staff from 5,527 to 2,907, later
+  admitting "We went too far" and rehiring after customer satisfaction fell)
+- Ch.2: The book cites Gartner's prediction that 50%+ of large-company
+  middle-management positions will be eliminated or fundamentally redefined
+  by 2026, and NVIDIA CEO Jensen Huang's 60 direct reports as an extreme
+  case of deliberate flattening
+- Ch.3: The book cites PwC's finding that AI-skilled workers earn a 25%
+  wage premium (up from 18% in 2023), and a Section survey finding only
+  ~3% of knowledge workers have reached "Advanced" AI usage (redesigning
+  business processes), versus ~45% non-users
+- Ch.4: The book documents DeNA's "AI Readiness Score" (DARS), a 5-level
+  framework distinguishing "surface-level use" (Levels 1-2) from
+  "substantive use" (Level 3+), and cites a PwC 5-country comparison
+  ranking Japan 3rd in AI promotion but last (5th) in realized business
+  outcomes
+- Ch.5: The book cites SoftBank's program in which ~25,000 employees built
+  2.5 million AI agents in 2.5 months (100 per employee), with 90%
+  reporting deeper AI understanding, contrasted with McKinsey's finding
+  that 7 in 10 reskilling participants ignore e-learning modules in favor
+  of hands-on learning
+- Ch.6: The book adopts Microsoft's Work Trend Index distinction between
+  "power users" (who use AI to increase output volume) and "frontier
+  workers" (who use AI to redesign business processes), and introduces
+  "AI auditor" as a third emerging role validating AI output at scale
+- Ch.7: The book defines "the Orchestrator" (cross-referencing the
+  author's separate book of the same theme) as the role standing at the
+  intersection of business strategy, technology, and organizational design,
+  implementing the 10:80:10 rule and context engineering across the
+  organization
+- Ch.8: The book proposes a "7-dimension simultaneous transformation"
+  framework (strategy, structure, evaluation, reskilling, job definition,
+  process, culture) and an implementation checklist for AI-first
+  organizations
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
